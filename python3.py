@@ -245,12 +245,3 @@ my_car ={
 
 print(my_car, len(my_car))
 print(my_car["car2"]["model"])
-
-git config --global user.name "mny-14"
-git config --global user.email "6749010039@phuketvc.ac.th"
-
-
-
-
-git add .
-git
