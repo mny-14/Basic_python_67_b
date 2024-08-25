@@ -66,10 +66,10 @@ class car :
     
     def turnOnFrontLight(self , status = "off") :
         if status == "On":
-            #do somthing
+            # do somthing
             pass
         else:
-            #do somthing
+            # do somthing
             pass
 
     
